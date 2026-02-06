@@ -48,7 +48,14 @@ const CONFIG = {
         buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
         textColor: "#ff4757"    
     },
-
+    music: {
+    enabled: true,
+    autoplay: true,
+    musicUrl: "https://youtu.be/JEfS3HLnUVs?si=jAc4Umwc_Vtkne04", // Paste your URL here
+    startText: "🎵 Play Music",
+    stopText: "🔇 Stop Music",
+    volume: 0.5
+}
     animations: {
         floatDuration: "15s",
         floatDistance: "50px",
