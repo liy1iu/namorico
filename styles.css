@@ -1,11 +1,11 @@
 /* CSS Variables - Will be updated by JavaScript */
 :root {
     /* Colors */
-    --background-color-1: #ffafbd;
-    --background-color-2: #ffc3a0;
-    --button-color: #ff6b6b;
-    --button-hover: #ff8787;
-    --text-color: #ff4757;
+    --background-color-1: #f6d1dc;
+    --background-color-2: #dce9e2;
+    --button-color: #c97c8a;
+    --button-hover: #d99aa6;
+    --text-color: #6b4e57;
 
     /* Animations */
     --float-duration: 15s;
