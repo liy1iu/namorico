@@ -59,7 +59,7 @@ const CONFIG = {
     music: {
         enabled: true,
         autoplay: true,
-        musicUrl: "https://res.cloudinary.com/dajbnawz8/video/upload/v1770382629/snaptik_7376594310633950496_v3_nariov.mp3",
+        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3",
         startText: "musiquinha",
         stopText: "para a musica!!!!!!!",
         volume: 0.5
