@@ -42,11 +42,11 @@ const CONFIG = {
     },
 
     colors: {
-        backgroundStart: "#f6d1dc",
-        backgroundEnd: "#dce9e2",
-        buttonBackground: "#c97c8a",
-        buttonHover: "#d99aa6",
-        textColor: "#3f2b30"
+         backgroundStart: "#ffafbd",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
+        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#ff4757"    
     },
 
     animations: {
