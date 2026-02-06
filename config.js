@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Emelie",
+    valentineName: "emelie MIa amoreca",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -14,8 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis                
     },
 
     // Questions and answers
@@ -78,7 +77,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://player.cloudinary.com/embed/?cloud_name=dajbnawz8&public_id=snaptik_7582414514025549076_v3_hcggkp&profile=cld-default", // Music streaming URL
+        musicUrl: "https://soundcloud.com/user-512220139/dawn-in-the-adan-ichiko-aoba?in=this-is-duy/sets/ichiko-aoba-lamp-playlist&si=34bcc88df3a6412a9ef313725c27d129&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharingt", // Music streaming URL
         startText: "coloca musica aqui",        // Button text to start music
         stopText: "se quiser tirar a musica é aqui",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
