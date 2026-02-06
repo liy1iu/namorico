@@ -24,7 +24,7 @@ const CONFIG = {
             text: "oi, voce me ama?",                                    // First interaction
             yesBtn: "sim",                                             // Text for "Yes" button
             noBtn: "naaaaaao",                                               // Text for "No" button
-            secretAnswer: "mais ou menos"           // Secret hover message
+            secretAnswer: "MUITO MUITO MESMO"           // Secret hover message
         },
         second: {
             text: "voce me ama quantos assim?",                          // For the love meter
@@ -56,11 +56,11 @@ const CONFIG = {
     // Color scheme for the website
     // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
     colors: {
-        backgroundStart: "#ffafbc",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#ffc3a0",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#ff6b6b",     // Button color (should stand out against the background)
-        buttonHover: "#ff8787",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        backgroundStart: "#f6d1dc",      // Gradient start (try pastel colors for a soft look)
+        backgroundEnd: "#dce9e2",        // Gradient end (should complement backgroundStart)
+        buttonBackground: "#c97c8a",     // Button color (should stand out against the background)
+        buttonHover: "#d99aa6",          // Button hover color (slightly lighter than buttonBackground)
+        textColor: "#6b4e57"             // Text color (make sure it's readable!)
     },
 
     // Animation settings
@@ -77,7 +77,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://soundcloud.com/user-512220139/dawn-in-the-adan-ichiko-aoba?in=this-is-duy/sets/ichiko-aoba-lamp-playlist&si=34bcc88df3a6412a9ef313725c27d129&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharingt", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dajbnawz8/video/upload/v1770382629/snaptik_7376594310633950496_v3_nariov.mp4", // Music streaming URL
         startText: "coloca musica aqui",        // Button text to start music
         stopText: "se quiser tirar a musica é aqui",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
